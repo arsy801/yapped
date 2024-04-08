@@ -13,7 +13,7 @@ namespace newlab26
                 Console.WriteLine("1 - Input/Output Vectors");
                 Console.WriteLine("2 - Write/Read Vectors");
                 Console.WriteLine("3 - Сериализация");
-                Console.WriteLine("4 - Запуск меню 4ой лаборторной работы");
+                Console.WriteLine("4 - Запуск меню предыдущей лаборторной работы");
                 Console.WriteLine("5 - Завершение работы");
                 string selectedAction = Console.ReadLine();
 
