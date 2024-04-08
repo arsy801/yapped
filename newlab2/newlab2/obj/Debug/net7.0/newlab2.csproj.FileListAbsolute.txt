@@ -1,0 +1,14 @@
+/Users/tyoma/Projects/newlab2/newlab2/bin/Debug/net7.0/newlab2
+/Users/tyoma/Projects/newlab2/newlab2/bin/Debug/net7.0/newlab2.deps.json
+/Users/tyoma/Projects/newlab2/newlab2/bin/Debug/net7.0/newlab2.runtimeconfig.json
+/Users/tyoma/Projects/newlab2/newlab2/bin/Debug/net7.0/newlab2.dll
+/Users/tyoma/Projects/newlab2/newlab2/bin/Debug/net7.0/newlab2.pdb
+/Users/tyoma/Projects/newlab2/newlab2/obj/Debug/net7.0/newlab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyoma/Projects/newlab2/newlab2/obj/Debug/net7.0/newlab2.AssemblyInfoInputs.cache
+/Users/tyoma/Projects/newlab2/newlab2/obj/Debug/net7.0/newlab2.AssemblyInfo.cs
+/Users/tyoma/Projects/newlab2/newlab2/obj/Debug/net7.0/newlab2.csproj.CoreCompileInputs.cache
+/Users/tyoma/Projects/newlab2/newlab2/obj/Debug/net7.0/newlab2.dll
+/Users/tyoma/Projects/newlab2/newlab2/obj/Debug/net7.0/refint/newlab2.dll
+/Users/tyoma/Projects/newlab2/newlab2/obj/Debug/net7.0/newlab2.pdb
+/Users/tyoma/Projects/newlab2/newlab2/obj/Debug/net7.0/newlab2.genruntimeconfig.cache
+/Users/tyoma/Projects/newlab2/newlab2/obj/Debug/net7.0/ref/newlab2.dll

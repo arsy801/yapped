@@ -1,0 +1,14 @@
+/Users/tyoma/Documents/SSAU/C#/newlab26/bin/Debug/net7.0/newlab26
+/Users/tyoma/Documents/SSAU/C#/newlab26/bin/Debug/net7.0/newlab26.deps.json
+/Users/tyoma/Documents/SSAU/C#/newlab26/bin/Debug/net7.0/newlab26.runtimeconfig.json
+/Users/tyoma/Documents/SSAU/C#/newlab26/bin/Debug/net7.0/newlab26.dll
+/Users/tyoma/Documents/SSAU/C#/newlab26/bin/Debug/net7.0/newlab26.pdb
+/Users/tyoma/Documents/SSAU/C#/newlab26/obj/Debug/net7.0/newlab26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyoma/Documents/SSAU/C#/newlab26/obj/Debug/net7.0/newlab26.AssemblyInfoInputs.cache
+/Users/tyoma/Documents/SSAU/C#/newlab26/obj/Debug/net7.0/newlab26.AssemblyInfo.cs
+/Users/tyoma/Documents/SSAU/C#/newlab26/obj/Debug/net7.0/newlab26.csproj.CoreCompileInputs.cache
+/Users/tyoma/Documents/SSAU/C#/newlab26/obj/Debug/net7.0/newlab26.dll
+/Users/tyoma/Documents/SSAU/C#/newlab26/obj/Debug/net7.0/refint/newlab26.dll
+/Users/tyoma/Documents/SSAU/C#/newlab26/obj/Debug/net7.0/newlab26.pdb
+/Users/tyoma/Documents/SSAU/C#/newlab26/obj/Debug/net7.0/newlab26.genruntimeconfig.cache
+/Users/tyoma/Documents/SSAU/C#/newlab26/obj/Debug/net7.0/ref/newlab26.dll

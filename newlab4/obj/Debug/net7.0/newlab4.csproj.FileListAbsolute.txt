@@ -1,0 +1,14 @@
+/Users/tyoma/Documents/C#/newlab4/bin/Debug/net7.0/newlab4
+/Users/tyoma/Documents/C#/newlab4/bin/Debug/net7.0/newlab4.deps.json
+/Users/tyoma/Documents/C#/newlab4/bin/Debug/net7.0/newlab4.runtimeconfig.json
+/Users/tyoma/Documents/C#/newlab4/bin/Debug/net7.0/newlab4.dll
+/Users/tyoma/Documents/C#/newlab4/bin/Debug/net7.0/newlab4.pdb
+/Users/tyoma/Documents/C#/newlab4/obj/Debug/net7.0/newlab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyoma/Documents/C#/newlab4/obj/Debug/net7.0/newlab4.AssemblyInfoInputs.cache
+/Users/tyoma/Documents/C#/newlab4/obj/Debug/net7.0/newlab4.AssemblyInfo.cs
+/Users/tyoma/Documents/C#/newlab4/obj/Debug/net7.0/newlab4.csproj.CoreCompileInputs.cache
+/Users/tyoma/Documents/C#/newlab4/obj/Debug/net7.0/newlab4.dll
+/Users/tyoma/Documents/C#/newlab4/obj/Debug/net7.0/refint/newlab4.dll
+/Users/tyoma/Documents/C#/newlab4/obj/Debug/net7.0/newlab4.pdb
+/Users/tyoma/Documents/C#/newlab4/obj/Debug/net7.0/newlab4.genruntimeconfig.cache
+/Users/tyoma/Documents/C#/newlab4/obj/Debug/net7.0/ref/newlab4.dll
